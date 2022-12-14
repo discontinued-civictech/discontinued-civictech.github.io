@@ -18,7 +18,7 @@ layout: default
 | 17:45| Farewell & closing remark                                    |                |
 | 18:00| End of workshop and Get Together                             |                |
 
-_Note_: The schedule is not confirmed
+_Note_: the schedule is not confirmed
 
 # Workshop Format
 

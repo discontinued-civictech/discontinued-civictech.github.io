@@ -2,17 +2,18 @@
 layout: default
 ---
 
-# Key dates
+
+# Call for Participation
+
+## Workshop at CHI’23 on April 23 or 28 2023, in Hamburg, Germany 
+
+### Key dates
 
 |:-------------------------------------------------------------|:---------------|
 | **Call for Participation** | December 15, 2022 | 
 | **Submission Deadline** | February 23, 2023 | 
 | **Notification of acceptance** | TBD | 
 | **Workshop day** | April 23 or 28, 2023 |
-
-# Call for Participation
-
-### Workshop at CHI’23 on April 23 or 28 2023, in Hamburg, Germany 
 
 The ACM CHI Conference on Human Factors in Computing Systems is the premier international conference of Human-Computer Interaction (HCI). CHI – pronounced ‘kai’ – annually brings together researchers and practitioners from all over the world and from diverse cultures, backgrounds, and positionalities, who have as an overarching goal to make the world a better place with interactive digital technologies.
 
