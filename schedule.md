@@ -10,7 +10,6 @@ layout: default
 | 10:00| Welcome & Opening remarks                                    |                |
 | 10:20| Sharing circle (participants present their submission)       |                |
 | 12:00| Lunch Break                                                  |                |
-|      | **Workshop at CHI conference space**                         |                |
 | 14:00| Position Statements (organizers present their perspectives)  |                |
 | 14:20| Group exercise                                               |                |
 | 16:00| Coffe Break                                                  |                |
