@@ -16,7 +16,7 @@ layout: default
 
 ### Workshop at CHI’23 on April 23 or 28 2023, in Hamburg, Germany 
 
-The ACM CHI Conference on Human Factors in Computing Systems is the premier international conference of Human-Computer Interaction (HCI). CHI – pronounced ‘kai’ – annually brings together researchers and practitioners from all over the world and from diverse cultures, backgrounds, and positionalities, who have as an overarching goal to make the world a better place with interactive digital technologies.
+<a href="https://chi2023.acm.org/">The ACM CHI Conference on Human Factors in Computing Systems</a> is the premier international conference of Human-Computer Interaction (HCI). CHI – pronounced ‘kai’ – annually brings together researchers and practitioners from all over the world and from diverse cultures, backgrounds, and positionalities, who have as an overarching goal to make the world a better place with interactive digital technologies.
 
 ### The workshop
 The design of civic tech is often confronted with impediments, barriers, and a lack of resources. These and other causes often lead to the discontinuation and even abandonment of initiatives. Workshops are a rare opportunity for academics and practitioners to exchange on discontinuation as seemingly imperfect, failed projects are much more difficult to publish as articles. 
