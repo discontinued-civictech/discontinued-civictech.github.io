@@ -14,7 +14,7 @@ layout: default
 | 14:20| Group exercise                                               |                |
 | 16:00| Coffe Break                                                  |                |
 | 16:15| Group exercise                                               |                |
-| 17:15| Discussion.                                                  |                |
+| 17:15| Discussion                                                   |                |
 | 17:45| Farewell & closing remark                                    |                |
 | 18:00| End of workshop and Get Together                             |                |
 
