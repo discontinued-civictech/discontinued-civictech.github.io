@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "call for participation is out!"
+title:  "Call for Participation is out!"
 ---
 
 Call for Participation is now available.

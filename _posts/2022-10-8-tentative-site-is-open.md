@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "tentative site is open!"
+title:  "Tentative site is open!"
 ---
 
 We are happy to open our tentative website!
