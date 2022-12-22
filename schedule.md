@@ -21,6 +21,8 @@ Friday April 28, 2023
 | 17:15| Discussion                                                   |
 | 17:45| Farewell & closing remark                                    |
 | 18:00| End of workshop and Get Together                             |
+
+
 <!-- 
 | Time | Contents                                                     | note           |
 |:-----|:-------------------------------------------------------------|:---------------|
