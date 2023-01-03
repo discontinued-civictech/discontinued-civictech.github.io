@@ -6,7 +6,7 @@ layout: default
 
 <div class="profile-wrapper">
 <img src="files/profile_photos/andreahamm.jpg" class="profile-photo">
-<br><a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">Andrea Hamm</a>(Weizenbaum Institute, Germany)</div>
+<br><a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">Andrea Hamm</a> (Weizenbaum Institute, Germany)</div>
 <div class="profile-wrapper">
 <img src="files/profile_photos/yuyashibuya.jpeg" class="profile-photo">
 <br><a href="https://www.yuyashibuya.com/">Yuya Shibuya</a> (University of Tokyo, Japan)</div>
