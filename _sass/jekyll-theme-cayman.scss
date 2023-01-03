@@ -286,9 +286,18 @@ a {
     image-rendering: crisp-edges;
   }
   .profile-text {
-    margin-left: 3rem;
+    margin-left: -3rem;
     color: rgb(29, 120, 29);
     font-size: medium;
+    a {
+      color: rgb(29, 120, 29);
+      text-decoration: underline;
+    
+      &:hover {
+        text-decoration: underline;
+        // text-decoration: none;
+      }
+    }
   }
 
   code {
