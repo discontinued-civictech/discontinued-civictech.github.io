@@ -11,8 +11,8 @@ layout: default
 <img src="files/profile_photos/yuyashibuya.jpeg" class="profile-photo">
 <div class="profile-text"><a href="https://www.yuyashibuya.com/">Yuya Shibuya</a><br>University of Tokyo, Japan</div></div>
 <div class="profile-wrapper">
-<img src="files/profile_photos/avatar1.jpeg" class="profile-photo">
-<div class="profile-text"><a href="">Teresa Cerratto Pargman</a><br>Stockholm University, Sweden</div></div>
+<img src="files/profile_photos/Tessy.jpg" class="profile-photo">
+<div class="profile-text"><a href="https://www.su.se/profiles/tcerr-1.182306">Teresa Cerratto Pargman</a><br>Stockholm University, Sweden</div></div>
 <div class="profile-wrapper">
 <img src="files/profile_photos/avatar2.jpeg" class="profile-photo">
 <div class="profile-text"><a href="">Roy Bendor</a><br>Delft University of Technology, Netherlands</div></div>
@@ -35,7 +35,7 @@ layout: default
 <img src="files/profile_photos/avatar8.jpeg" class="profile-photo">
 <div class="profile-text"><a href="">Gwen Klerks</a><br>Eindhoven University of Technology, Netherlands</div></div>
 <div class="profile-wrapper">
-<img src="files/profile_photos/avatar1.jpeg" class="profile-photo">
-<div class="profile-text"><a href="">Ben Schouten</a><br>Eindhoven University of Technology, Netherlands</div></div>
+<img src="files/profile_photos/BenSchouten.jpg" class="profile-photo">
+<div class="profile-text"><a href="https://www.tue.nl/en/research/researchers/ben-schouten/">Ben Schouten</a><br>Eindhoven University of Technology, Netherlands</div></div>
 
 <a href = "./" class="btn-to-top">Back to Top Page</a>
