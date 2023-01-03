@@ -273,13 +273,14 @@ a {
     padding-left: 3rem;
   }
   .profile-photo {
-    text-align:center;
+    // text-align:center;
     width:150px;
     height: 150px;
     border-radius: 50%;
     overflow: hidden;
     object-fit: cover;
-    object-position: center right;
+    object-position: 50% 50%;
+    // object-position: center right;
   }
   .profile-photo img {
     width: 100%;
