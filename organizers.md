@@ -23,8 +23,8 @@ layout: default
 <img src="files/profile_photos/ChristophRaetzsch.jpg" class="profile-photo">
 <div class="profile-text"><a href="https://pure.au.dk/portal/en/persons/christoph-raetzsch(91eb24de-3d92-4846-9216-1c7aee8c2ff2).html">Christoph Raetzsch</a><br>Aarhus University, Denmark</div></div>
 <div class="profile-wrapper">
-<img src="files/profile_photos/avatar5.jpeg" class="profile-photo">
-<div class="profile-text"><a href="">Masahiko Shoji</a><br>Musashi University, Japan</div></div>
+<img src="files/profile_photos/MasahikoShoji.jpg" class="profile-photo">
+<div class="profile-text"><a href="https://www.glocom.ac.jp/en/researcher/116">Masahiko Shoji</a><br>Musashi University, Japan</div></div>
 <div class="profile-wrapper">
 <img src="files/profile_photos/ChristophBieber.jpg" class="profile-photo">
 <div class="profile-text"><a href="https://www.cais-research.de/team/christoph-bieber/">Christoph Bieber</a><br>CAIS Institute, Germany</div></div>
