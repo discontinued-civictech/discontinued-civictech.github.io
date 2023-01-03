@@ -268,11 +268,12 @@ a {
   }
 
   .profile-photo {
-    width:5.8rem;
-    max-width:20%;
-    // height: 2.8rem;
+    width:150px;
+    height: 150px;
     border-radius: 50%;
-    overflow: hidden;
+    // overflow: hidden;
+    object-fit: cover;
+    object-position: center right;
   }
   
   .profile-photo img {
