@@ -268,8 +268,8 @@ a {
   }
 
   .profile-photo {
-    width: 2.8rem;
-    height: 2.8rem;
+    max-width:10%;
+    // height: 2.8rem;
     border-radius: 50%;
     overflow: hidden;
   }
