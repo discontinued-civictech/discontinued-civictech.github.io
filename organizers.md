@@ -5,10 +5,12 @@ layout: default
 # Organizers
 
 <!-- ![andrea](./assets/img/andrea.png) -->
-<div class="profile-photo"><img src="files/profile_photos/andreahamm.jpg"></div>
-* <a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">Andrea Hamm</a> (Weizenbaum Institute, Germany)
-<div class="profile-photo"><img src="files/profile_photos/yuyashibuya.jpeg"></div>
-* <a href="https://www.yuyashibuya.com/">Yuya Shibuya</a> (University of Tokyo, Japan)
+<div class="profile-wrapper">
+<img src="files/profile_photos/andreahamm.jpg" class="profile-photo"></div>
+* <a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">Andrea Hamm</a>(Weizenbaum Institute, Germany)</div>
+<div class="profile-wrapper">
+<img src="files/profile_photos/yuyashibuya.jpeg" class="profile-photo"></div>
+* <a href="https://www.yuyashibuya.com/">Yuya Shibuya</a> (University of Tokyo, Japan)</div>
 * Teresa Cerratto Pargman (Stockholm University, Sweden)
 * Roy Bendor (Delft University of Technology, Netherlands)
 * Nicolai Brodersen Hansen (Aalborg University, Denmark)
