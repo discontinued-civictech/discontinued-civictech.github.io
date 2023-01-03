@@ -286,9 +286,11 @@ a {
     image-rendering: crisp-edges;
   }
   .profile-text {
-    padding-left: -3rem;
+    margin-left: 3rem;
+    color: rgb(29, 120, 29);
+    font-size: medium;
   }
-  
+
   code {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
