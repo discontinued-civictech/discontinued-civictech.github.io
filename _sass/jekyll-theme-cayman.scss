@@ -268,10 +268,10 @@ a {
   }
 
   .profile-wrapper{
+    padding-top: 3rem;
     padding-left: 3rem;
   }
   .profile-photo {
-    padding-top: 3rem;
     width:150px;
     height: 150px;
     border-radius: 50%;
@@ -279,13 +279,16 @@ a {
     object-fit: cover;
     object-position: center right;
   }
-  
   .profile-photo img {
     width: 100%;
     height: 100%;
     display: block;
     image-rendering: crisp-edges;
   }
+  .profile-text {
+    padding-left: -3rem;
+  }
+  
   code {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
