@@ -20,14 +20,14 @@ layout: default
 <img src="files/profile_photos/avatar3.jpeg" class="profile-photo">
 <div class="profile-text"><a href="">Nicolai Brodersen Hansen</a><br>Aalborg University, Denmark</div></div>
 <div class="profile-wrapper">
-<img src="files/profile_photos/avatar4.jpeg" class="profile-photo">
-<div class="profile-text"><a href="">Christoph Raetzsch</a><br>Aarhus University, Denmark</div></div>
+<img src="files/profile_photos/ChristophRaetzsch.jpg" class="profile-photo">
+<div class="profile-text"><a href="https://pure.au.dk/portal/en/persons/christoph-raetzsch(91eb24de-3d92-4846-9216-1c7aee8c2ff2).html">Christoph Raetzsch</a><br>Aarhus University, Denmark</div></div>
 <div class="profile-wrapper">
 <img src="files/profile_photos/avatar5.jpeg" class="profile-photo">
 <div class="profile-text"><a href="">Masahiko Shoji</a><br>Musashi University, Japan</div></div>
 <div class="profile-wrapper">
-<img src="files/profile_photos/avatar6.jpeg" class="profile-photo">
-<div class="profile-text"><a href="">Christoph Bieber</a><br>CAIS Institute, Germany</div></div>
+<img src="files/profile_photos/ChristophBiber.jpg" class="profile-photo">
+<div class="profile-text"><a href="https://www.cais-research.de/team/christoph-bieber/">Christoph Bieber</a><br>CAIS Institute, Germany</div></div>
 <div class="profile-wrapper">
 <img src="files/profile_photos/avatar7.jpeg" class="profile-photo">
 <div class="profile-text"><a href="">Mennatullah Hendawy</a><br>CAIS Institute, Germany /Ain Shams University, Egypt</div></div>
