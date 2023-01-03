@@ -26,7 +26,7 @@ layout: default
 <img src="files/profile_photos/avatar5.jpeg" class="profile-photo">
 <div class="profile-text"><a href="">Masahiko Shoji</a><br>Musashi University, Japan</div></div>
 <div class="profile-wrapper">
-<img src="files/profile_photos/ChristophBiber.jpg" class="profile-photo">
+<img src="files/profile_photos/ChristophBieber.jpg" class="profile-photo">
 <div class="profile-text"><a href="https://www.cais-research.de/team/christoph-bieber/">Christoph Bieber</a><br>CAIS Institute, Germany</div></div>
 <div class="profile-wrapper">
 <img src="files/profile_photos/avatar7.jpeg" class="profile-photo">
