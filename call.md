@@ -43,6 +43,6 @@ Please include in your submission if you would like or would not like to have yo
 * Submission deadline: February 23, 2023
 * Notification of acceptance: [TBD] at least seven days before the conference early registration deadline
 
-### <u>Read the full call <a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u>. 
+#### <strong>Read the full call <u><a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u><strong>. 
 
 <a href = "./" class="btn-to-top">Back to Top Page</a>
