@@ -5,9 +5,9 @@ layout: default
 # Organizers
 
 <!-- ![andrea](./assets/img/andrea.png) -->
-<div class="profile-photo"><img src="profile_photos/andreahamm.jpg"></div>
+<div class="profile-photo"><img src="files/profile_photos/andreahamm.jpg"></div>
 * <a href="https://www.yuyashibuya.com/">Andrea Hamm</a> (Weizenbaum Institute, Germany)
-<div class="profile-photo"><img src="profile_photos/yuyashibuya.jpg"></div>
+<div class="profile-photo"><img src="files/profile_photos/yuyashibuya.jpg"></div>
 * <a href="https://www.yuyashibuya.com/">Yuya Shibuya</a> (University of Tokyo, Japan)
 * Teresa Cerratto Pargman (Stockholm University, Sweden)
 * Roy Bendor (Delft University of Technology, Netherlands)
