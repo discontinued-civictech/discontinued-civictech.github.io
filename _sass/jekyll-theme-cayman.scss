@@ -274,12 +274,13 @@ a {
     margin-bottom: 16px;
     padding: 0 8px;
   }
-
-  .column {
-    width: 100%;
-    display: block;
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    .column {
+      width: 100%;
+      display: block;
+    }
   }
-  
+
   .container {
     padding: 0 16px;
   }
