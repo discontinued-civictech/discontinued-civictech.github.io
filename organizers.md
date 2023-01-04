@@ -4,6 +4,28 @@ layout: default
 
 # Organizers
 
+<div class="row">
+  <div class="column">
+    <img src="files/profile_photos/andreahamm.jpg" class="profile-photo">
+    <div class="profile-text">
+        <a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">Andrea Hamm</a><br>Weizenbaum Institute, Germany
+    </div>
+  </div>
+  <div class="column">
+    <img src="files/profile_photos/yuyashibuya.jpeg" class="profile-photo">
+    <div class="profile-text">
+        <a href="https://www.yuyashibuya.com/">Yuya Shibuya</a><br>University of Tokyo, Japan
+    </div>
+  </div>
+  <div class="column">
+    <img src="files/profile_photos/Tessy.jpg" class="profile-photo">
+    <div class="profile-text">
+        <a href="https://www.su.se/profiles/tcerr-1.182306">Teresa Cerratto Pargman</a><br>Stockholm University, Sweden
+    </div>
+   </div>
+</div>
+
+
 <div class="profile-wrapper">
 <img src="files/profile_photos/andreahamm.jpg" class="profile-photo">
 <div class="profile-text"><a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">Andrea Hamm</a><br>Weizenbaum Institute, Germany</div></div>
