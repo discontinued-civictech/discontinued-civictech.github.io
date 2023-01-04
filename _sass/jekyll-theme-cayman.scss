@@ -16,11 +16,6 @@
 }
 
 @mixin small {
-  @media screen and (max-width: #{$medium-breakpoint}) {
-    .column {
-      width: 100%;
-      display: block;
-    }
     @content;
   }
 }
@@ -278,7 +273,12 @@ a {
     margin-bottom: 16px;
     padding: 0 8px;
   }
-
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }  
   .container {
     padding: 0 16px;
   }
@@ -286,12 +286,6 @@ a {
     content: "";
     clear: both;
     display: table;
-  }
-
-  .profile-wrapper{
-    width: 280px;
-    padding-top: 1rem;
-    padding-left: 1rem;
   }
   .profile-photo {
     width:150px;
