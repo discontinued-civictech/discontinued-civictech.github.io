@@ -17,11 +17,11 @@
 
 @mixin small {
   @media screen and (max-width: #{$medium-breakpoint}) {
-    @content;
     .column {
       width: 100%;
       display: block;
     }
+    @content;
   }
 }
 
