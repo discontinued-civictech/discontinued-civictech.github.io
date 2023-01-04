@@ -160,9 +160,15 @@ layout: default
           Eindhoven University of Technology, Netherlands
         </div>
         <div class="profile-detail-text">
-        <p>
+        <details>
+            <summary>Ben Schouten is professor of Playful Interaction at Eindhoven University of Technology, Department of Industrial Design as well as lector Play & Civic Media at the Amsterdam University of Applied Sciences. </summary>
+            <div class="details_content">
+              He founded the Master Digital Design in Amsterdam and until 2020 worked as its scientific director. His group focuses on play and design for social innovations, citizen empowerment and culture. He (co) authored 5 books and 100-plus publications at the intersection of play, games, participatory design and citizen empowerment. His latest book, The Civic Empowerment Toolbox, Action Design for Urban Futures has recently been published. <a href="https://www.japsambooks.nl/products/the-civic-empowerment-toolbox">https://www.japsambooks.nl/products/the-civic-empowerment-toolbox</a>. His design includes, multiple games within the domain of health care, education, urban planning, focusing on playful empowerment.
+            </div>
+        </details>
+        <!-- <p>
           Ben Schouten is professor of Playful Interaction at Eindhoven University of Technology, Department of Industrial Design as well as lector Play & Civic Media at the Amsterdam University of Applied Sciences. He founded the Master Digital Design in Amsterdam and until 2020 worked as its scientific director. His group focuses on play and design for social innovations, citizen empowerment and culture. He (co) authored 5 books and 100-plus publications at the intersection of play, games, participatory design and citizen empowerment. His latest book, The Civic Empowerment Toolbox, Action Design for Urban Futures has recently been published. <a href="https://www.japsambooks.nl/products/the-civic-empowerment-toolbox">https://www.japsambooks.nl/products/the-civic-empowerment-toolbox</a>. His design includes, multiple games within the domain of health care, education, urban planning, focusing on playful empowerment.
-        </p>
+        </p> -->
         </div>
     </div>
 </div>
