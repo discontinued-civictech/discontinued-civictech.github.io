@@ -291,8 +291,8 @@ a {
   }
 
   .profile-photo {
-    width:150px;
-    height: 150px;
+    width:180px;
+    height: 180px;
     border-radius: 50%;
     overflow: hidden;
     object-fit: cover;
@@ -325,8 +325,16 @@ a {
   .profile-detail-text {
     text-align: center;
     color: rgb(60, 133, 60);
-    font-size: small;
-    line-height: 1;
+    font-size: smaller;
+    line-height: 1.1;
+    a {
+      color: rgb(60, 133, 60);
+      text-decoration: underline;
+      &:hover {
+        text-decoration: underline;
+        font-weight: bold;
+      }
+    }
   }
 
   code {
