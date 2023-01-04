@@ -6,10 +6,12 @@ layout: default
 
 <div class="row">
   <div class="column">
+    <a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">
     <img src="files/profile_photos/andreahamm.jpg" class="profile-photo">
     <div class="profile-name">
-        <a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">Andrea Hamm</a>
+        Andrea Hamm
     </div>
+    </a>
     <div class="profile-institute">
         Weizenbaum Institute, Germany
     </div>
