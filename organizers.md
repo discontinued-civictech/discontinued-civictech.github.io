@@ -70,8 +70,8 @@ layout: default
 </div>
 <div class="row">
   <div class="column">
-  <a href="">
-    <img src="files/profile_photos/avatar2.jpeg" class="profile-photo">
+  <a href="https://www.tudelft.nl/io/over-io/personen/bendor-r">
+    <img src="files/profile_photos/RoyBendor.jpg" class="profile-photo">
         <div class="profile-name">
             Roy Bendor
         </div>
@@ -196,7 +196,7 @@ layout: default
 <div class="row">
   <div class="column">
   <a href="">
-    <img src="files/profile_photos/avatar8.jpeg" class="profile-photo">
+    <img src="files/profile_photos/avatar2.jpeg" class="profile-photo">
         <div class="profile-name">
             Gwen Klerks
         </div>
