@@ -100,7 +100,7 @@ layout: default
   <div class="column">
     <img src="files/profile_photos/avatar7.jpeg" class="profile-photo">
         <div class="profile-text">
-            <a href="">Mennatullah Hendawy</a><br>CAIS Institute, Germany /Ain Shams University, Egypt
+            <a href="">Mennatullah Hendawy</a><br>CAIS Institute, Germany / Ain Shams University, Egypt
         </div>
         <div class="profile-detail-text">
         <p>
