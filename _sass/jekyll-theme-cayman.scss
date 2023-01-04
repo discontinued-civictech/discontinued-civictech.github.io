@@ -345,16 +345,18 @@ a {
     display:none;
   }
 
-  summary::before {
+  summary::after {
     display: inline-block;
-    content: "▼ ";
+    text-decoration: underline;
+    content: "▼ show more...";
     margin: 0 .3em 0 0;
     transform: rotate(0deg);
     transition: .2s transform ease;
   }
 
-  details[open] summary::before {
+  details[open] summary::after {
     transform: rotate(180deg);
+    content: "▼ show less...";
   }
 
   .details_content {
