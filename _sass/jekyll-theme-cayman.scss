@@ -310,15 +310,14 @@ a {
   }
   .profile-name {
     text-align:center;
-    margin-top: 1rem;
+    text-decoration: underline;
+    margin-top: 1.5rem;
     color: rgb(29, 120, 29);
     font-size: medium;
     a {
       color: rgb(29, 120, 29);
-      text-decoration: underline;
     
       &:hover {
-        text-decoration: underline;
         font-weight: bold;
         // text-decoration: none;
       }

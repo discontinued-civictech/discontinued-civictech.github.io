@@ -27,10 +27,12 @@ layout: default
     </div>
   </div>
   <div class="column">
+    <a href="https://www.yuyashibuya.com/">
     <img src="files/profile_photos/yuyashibuya.jpeg" class="profile-photo">
     <div class="profile-name">
-        <a href="https://www.yuyashibuya.com/">Yuya Shibuya</a>
+        Yuya Shibuya
     </div>
+    </a>
     <div class="profile-institute">
     University of Tokyo, Japan
     </div>
@@ -46,10 +48,12 @@ layout: default
     </div>
   </div>
   <div class="column">
+  <a href="https://www.su.se/profiles/tcerr-1.182306">
     <img src="files/profile_photos/Tessy.jpg" class="profile-photo">
     <div class="profile-name">
-        <a href="https://www.su.se/profiles/tcerr-1.182306">Teresa Cerratto Pargman</a>
+        Teresa Cerratto Pargman
     </div>
+    </a>
     <div class="profile-institute">
     Stockholm University, Sweden
     </div>
@@ -66,10 +70,12 @@ layout: default
 </div>
 <div class="row">
   <div class="column">
+  <a href="">
     <img src="files/profile_photos/avatar2.jpeg" class="profile-photo">
         <div class="profile-name">
-            <a href="">Roy Bendor</a>
+            Roy Bendor
         </div>
+        </a>
         <div class="profile-institute">
         Delft University of Technology, Netherlands
         </div>
@@ -86,9 +92,11 @@ layout: default
   </div>
   <div class="column">
     <img src="files/profile_photos/avatar3.jpeg" class="profile-photo">
+    <a href="">
         <div class="profile-name">
-            <a href="">Nicolai Brodersen Hansen</a>
+            Nicolai Brodersen Hansen
         </div>
+        </a>
         <div class="profile-institute">
           Aalborg University, Denmark
         </div>
@@ -103,10 +111,12 @@ layout: default
       </div>
     </div>
   <div class="column">
+  <a href="https://pure.au.dk/portal/en/persons/christoph-raetzsch(91eb24de-3d92-4846-9216-1c7aee8c2ff2).html">
     <img src="files/profile_photos/ChristophRaetzsch.jpg" class="profile-photo">
         <div class="profile-name">
-            <a href="https://pure.au.dk/portal/en/persons/christoph-raetzsch(91eb24de-3d92-4846-9216-1c7aee8c2ff2).html">Christoph Raetzsch</a>
+            Christoph Raetzsch
         </div>
+        </a>
         <div class="profile-institute">
           Aarhus University, Denmark
         </div>
@@ -123,10 +133,12 @@ layout: default
 </div>
 <div class="row">
   <div class="column">
+  <a href="https://www.glocom.ac.jp/en/researcher/116">
     <img src="files/profile_photos/MasahikoShoji.jpg" class="profile-photo">
         <div class="profile-name">
-            <a href="https://www.glocom.ac.jp/en/researcher/116">Masahiko Shoji</a>
+            Masahiko Shoji
         </div>
+        </a>
         <div class="profile-institute">
           Musashi University, Japan
         </div>
@@ -142,9 +154,11 @@ layout: default
     </div>
   <div class="column">
     <img src="files/profile_photos/ChristophBieber.jpg" class="profile-photo">
+    <a href="https://www.cais-research.de/team/christoph-bieber/">
         <div class="profile-name">
-            <a href="https://www.cais-research.de/team/christoph-bieber/">Christoph Bieber</a>
+            Christoph Bieber
         </div>
+        </a>
         <div class="profile-institute">
           CAIS Institute, Germany
         </div>
@@ -159,10 +173,12 @@ layout: default
       </div>
     </div>
   <div class="column">
+  <a href="">
     <img src="files/profile_photos/avatar7.jpeg" class="profile-photo">
         <div class="profile-name">
-            <a href="">Mennatullah Hendawy</a>
+            Mennatullah Hendawy
         </div>
+        </a>
         <div class="profile-institute">
           CAIS Institute, Germany / Ain Shams University, Egypt
         </div>
@@ -179,10 +195,12 @@ layout: default
 </div>
 <div class="row">
   <div class="column">
+  <a href="">
     <img src="files/profile_photos/avatar8.jpeg" class="profile-photo">
         <div class="profile-name">
-            <a href="">Gwen Klerks</a>
+            Gwen Klerks
         </div>
+        </a>
         <div class="profile-institute">
           Eindhoven University of Technology, Netherlands
         </div>
@@ -198,10 +216,12 @@ layout: default
         </div>
     </div>
   <div class="column">
+    <a href="https://www.tue.nl/en/research/researchers/ben-schouten/">
     <img src="files/profile_photos/BenSchouten.jpg" class="profile-photo">
         <div class="profile-name">
-            <a href="https://www.tue.nl/en/research/researchers/ben-schouten/">Ben Schouten</a>
+            Ben Schouten
         </div>
+        </a>
         <div class="profile-institute">
           Eindhoven University of Technology, Netherlands
         </div>
