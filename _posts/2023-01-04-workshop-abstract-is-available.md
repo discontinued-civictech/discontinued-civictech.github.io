@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workshop abstract paper is now available for download"
+title:  "Workshop abstract paper is now available for download!"
 ---
 
 Our workshop's extended abstract paper is available for download.
