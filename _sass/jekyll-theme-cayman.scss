@@ -190,8 +190,8 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
-    // max-width: 84rem;
+    // max-width: 64rem;
+    max-width: 76rem;
     // padding: 5rem 6rem;
     padding: 2rem 6rem;
     margin: 0 auto;
@@ -336,6 +336,7 @@ a {
     text-align: center;
     color:#959da5;
     font-size: smaller;
+    margin-top: .5rem;
     line-height: 1.1;
     summary {
       outline: none;
