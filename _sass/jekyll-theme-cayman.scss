@@ -341,6 +341,11 @@ a {
       outline: none;
       cursor: pointer;
     }
+  
+  summary {
+    display: block;
+  }
+    
   summary::-webkit-details-marker {
     display:none;
   }
