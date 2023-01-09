@@ -173,8 +173,8 @@ layout: default
       </div>
     </div>
   <div class="column">
-  <a href="">
-    <img src="files/profile_photos/avatar7.jpeg" class="profile-photo">
+  <a href="https://www.linkedin.com/in/mhendawy">
+    <img src="files/profile_photos/MennatullahHendawy.jpeg" class="profile-photo">
         <div class="profile-name">
             Mennatullah Hendawy
         </div>
