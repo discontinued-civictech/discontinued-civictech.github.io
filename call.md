@@ -46,6 +46,6 @@ Please include in your submission if you would like or would not like to have yo
 #### <strong>Read the full call <u><a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u><strong>. 
 
 |Info for prospective participants |
-|All accepted workshop participants (also virtual participants) have to pay the workshop fee of $238 and a conference ticket (one day ticket only for the workshop day or a full conference ticket). Please check the CHI'23 registration pages to find out about the pricing (https://chi2023.acm.org/for-attendees/). Please note that early bird rates end on March 13, 2023.|
+|All accepted workshop participants (also virtual participants) have to pay the workshop fee of $238 and a conference ticket (one day ticket only for the workshop day or a full conference ticket). Please check the CHI'23 registration pages to find out about the pricing (<a href="https://chi2023.acm.org/for-attendees/">https://chi2023.acm.org/for-attendees/</a>). Please note that early bird rates end on March 13, 2023.|
 
 <a href = "./" class="btn-to-top">Back to Top Page</a>
