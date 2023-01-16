@@ -401,6 +401,7 @@ a {
     color: $code-text-color;
     background-color: $code-bg-color;
     border-radius: 0.3rem;
+    word-wrap: normal;
     white-space: pre-wrap;
   }
 
