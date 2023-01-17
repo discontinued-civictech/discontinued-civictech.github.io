@@ -41,7 +41,7 @@ _Submissions should be sent to discontinued.civictech [at] gmail.com_
 Please include in your submission if you would like or would not like to have your submission published on the workshop website. Please also indicate in your submission if you plan to participate in person or online. Please note that at least one author of each accepted submission must attend the workshop and that all participants must register for both the workshop and for at least one day of the conference.
 
 * Submission deadline: February 23, 2023
-* Notification of acceptance: [TBD] at least seven days before the conference early registration deadline
+* Notification of acceptance: March 1, 2023
 
 #### <strong>Read the full call <u><a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u><strong>. 
 
