@@ -91,8 +91,8 @@ layout: default
         </div>
   </div>
   <div class="column">
-    <img src="files/profile_photos/avatar3.jpeg" class="profile-photo">
-    <a href="">
+    <img src="files/profile_photos/Nicolai.jpg" class="profile-photo">
+    <a href="https://nbhansen.github.io/">
         <div class="profile-name">
             Nicolai Brodersen Hansen
         </div>
