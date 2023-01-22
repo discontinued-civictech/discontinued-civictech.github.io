@@ -196,7 +196,7 @@ layout: default
 <div class="row">
   <div class="column">
   <a href="https://research.tue.nl/en/persons/gwen-klerks">
-    <img src="files/profile_photos/Gwen.jpeg" class="profile-photo">
+    <img src="files/profile_photos/Gwen.jpg" class="profile-photo">
         <div class="profile-name">
             Gwen Klerks
         </div>
