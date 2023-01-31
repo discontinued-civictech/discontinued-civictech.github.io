@@ -2,9 +2,10 @@
 layout: default
 ---
 
-#### <strong>Read the full call <u><a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u><strong>. 
 
 # Call for Participation
+
+### <strong>Read the full call <u><a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u><strong>. 
 
 ### Key dates
 
