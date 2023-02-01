@@ -5,7 +5,7 @@ layout: default
 
 # Workshop Schedule
 
-Friday April 28, 2023
+**Friday April 28, 2023**
 
 
 | Time | Contents                                                                                                       |
