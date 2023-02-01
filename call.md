@@ -45,7 +45,7 @@ Please include in your submission if you would like or would not like to have yo
 * Submission deadline: February 23, 2023
 * Notification of acceptance: March 1, 2023
 
-|**Info for prospective participants** |
-|All accepted workshop participants (also virtual participants) have to pay the workshop fee of $238 and a conference ticket (one day ticket only for the workshop day or a full conference ticket). Please check the CHI'23 registration pages to find out about the pricing (<a href="https://chi2023.acm.org/for-attendees/">https://chi2023.acm.org/for-attendees/</a>). Please note that early bird rates end on March 13, 2023.|
+<!-- |**Info for prospective participants** |
+|All accepted workshop participants (also virtual participants) have to pay the workshop fee of $238 and a conference ticket (one day ticket only for the workshop day or a full conference ticket). Please check the CHI'23 registration pages to find out about the pricing (<a href="https://chi2023.acm.org/for-attendees/">https://chi2023.acm.org/for-attendees/</a>). Please note that early bird rates end on March 13, 2023.| -->
 
 <a href = "./" class="btn-to-top">Back to Top Page</a>
