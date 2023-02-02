@@ -45,7 +45,7 @@ Please include in your submission if you would like or would not like to have yo
 * Submission deadline: February 23, 2023
 * Notification of acceptance: March 1, 2023
 
-<!-- |**Info for prospective participants** |
-|All accepted workshop participants (also virtual participants) have to pay the workshop fee of $238 and a conference ticket (one day ticket only for the workshop day or a full conference ticket). Please check the CHI'23 registration pages to find out about the pricing (<a href="https://chi2023.acm.org/for-attendees/">https://chi2023.acm.org/for-attendees/</a>). Please note that early bird rates end on March 13, 2023.| -->
+|**Info for prospective participants** |
+|You can only register as a workshop participant in case your submission has been accepted by the workshop organizers. You will receive a code which needs to be entered during the registration. This year, CHI is offering a workshop-only ticket option where attendees only need to pay the workshop fee to attend the workshop. However, this option does not allow you to attend any other CHI conference presentations or events. Important: Full conference pass or day ticket holders will have to pay the workshop fee in addition to the conference ticket. Please note that the Early Bird ticket rate will end on March 13, 2023. <br />Workshop-only registration: https://cvent.me/l8GAXB<br />Full conference / one-day registration: https://web.cvent.com/event/8309e84d-5c2d-424a-9388-4a62df5ff386/summary|
 
 <a href = "./" class="btn-to-top">Back to Top Page</a>
