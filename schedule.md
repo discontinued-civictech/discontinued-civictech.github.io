@@ -11,7 +11,7 @@ layout: default
 | Time | Contents                                                                                                       |
 |:-----|:---------------------------------------------------------------------------------------------------------------|
 | 10:00| Welcome & Opening remarks                                                                                      |
-| 10:10| Position Statements (organizers present their perspectives).                                                   |
+| 10:10| Position Statements (organizers present their perspectives)                                                    |
 | 10:40| Sharing circle: Your "failure" story                                                                           |
 | 12:00| Lunch Break                                                                                                    |
 | 13:30| Group exercise: Why does civic tech fail or discontinue, why is it abandoned?                                  |
