@@ -42,8 +42,8 @@ _Submissions should be sent to discontinued.civictech [at] gmail.com_
 
 Please include in your submission if you would like or would not like to have your submission published on the workshop website. Please also indicate in your submission if you plan to participate in person or online. Please note that at least one author of each accepted submission must attend the workshop and that all participants must register for both the workshop and for at least one day of the conference.
 
-* Submission deadline: February 23, 2023
-* Notification of acceptance: March 1, 2023
+* Submission deadline: ~~February 23, 2023~~ March 1, 2023
+* Notification of acceptance: March 1, 2023 (for those who submit by February 23) and  March 6 (for those who submit after February 23)
 
 |**Info for prospective participants** |
 |You can only register as a workshop participant in case your submission has been accepted by the workshop organizers. You will receive a code which needs to be entered during the registration. This year, CHI is offering a workshop-only ticket option where attendees only need to pay the workshop fee to attend the workshop. However, this option does not allow you to attend any other CHI conference presentations or events.<br /><br />**Important**: Full conference pass or day ticket holders will have to pay the workshop fee in addition to the conference ticket.Please note that the Early Bird ticket rate will end on *March 13, 2023*. <br /><br />**Workshop-only registration**: <a href="https://cvent.me/l8GAXB">https://cvent.me/l8GAXB</a><br />**Full conference / one-day registration**: <a href="https://web.cvent.com/event/8309e84d-5c2d-424a-9388-4a62df5ff386/summary">https://web.cvent.com/event/8309e84d-5c2d-424a-9388-4a62df5ff386/summary</a>|
