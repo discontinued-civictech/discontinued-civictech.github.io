@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thank you for the submission!"
+title:  "Thank you for your submissions!"
 ---
 
 We closed the submission on March 1, 2023. 
