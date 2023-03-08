@@ -10,7 +10,7 @@ layout: default
 ### Key dates
 
 |:-------------------------------------------------------------|:---------------|
-| **Call for Participation** | ~~December 15, 2022~~ | 
+| **Call for Participation** | December 15, 2022 | 
 | **Submission Deadline** | ~~February 23, 2023~~ March 1, 2023 | 
 | **Notification of acceptance** | March 1, 2023 (for those who submit by February 23) and  March 6 (for those who submit after February 23) | 
 | **Workshop day** | April 28, 2023 |
