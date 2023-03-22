@@ -5,7 +5,7 @@ layout: default
 
 # Privacy Policy
 
-## 1. An overview of data protection
+## An overview of data protection
 
 ### General
 The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
