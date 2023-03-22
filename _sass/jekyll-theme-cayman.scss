@@ -569,21 +569,23 @@ a {
 
 .contact-us {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 5px;
   margin-bottom: 100px;
   margin-left: 55px;
   margin-right: 55px;
   color: rgba(0, 0, 0, 0.4);
+  font-size: small;
 }
 
 .footer-info {
   text-align: center;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   margin-left: 55px;
   margin-right: 55px;
   color: rgba(0, 0, 0, 0.4);
   display: block;
+  font-size:medium;
   font-weight: none;
   a {
     color: rgba(0, 0, 0, 0.4);
