@@ -35,7 +35,7 @@ layout: default
             <td>10:40</td>
             <td><br /><strong>Sharing circle: Your "failure" story</strong>
                 <ol>
-                    <li><b>Rainer Rehak</b> (<a href="https://www.weizenbaum-institut.de/portrait/p/rainer-rehak/">profile website</a>)<br /><i>Ten Years of Failed Civic Tech in Germany</i></li>
+                    <li><b>Rainer Rehak</b> (<a href="https://www.weizenbaum-institut.de/en/spezialseiten/persons-details/p/rainer-rehak/">profile website</a>)<br /><i>Ten Years of Failed Civic Tech in Germany</i> (<a href="/files/abstracts/10_RainerRehak_DiscontinuedCivicTech.pdf"><u>pdf</u></a>)</li>
                     <li><b>Mennatullah Hendawy</b> (<a href="https://sites.google.com/view/mennatullah-hendawy">profile website</a>)<br /><i>Discontinued Civic Tech in Post Revolution Contexts</i></li>
                     <li><b>Dan Richardson</b> (<a href="https://danrichardson.me/">profile website</a>)<br /><i>Failed yet successful: OurPlace and Digital Civics</i> (<a href='files/abstracts/01_DanRichardson_Failed_yet_successful__OurPlace_and_Digital_Civics.pdf'><u>pdf</u></a>)</li>
                     <li><b>Emilia Knabe</b><br /><i>Accessibility of Digital Applications in Participation Processes in an Urban Context</i> (<a href="files/abstracts/08_Emilia Knabe.pdf"><u>pdf</u></a>)</li>

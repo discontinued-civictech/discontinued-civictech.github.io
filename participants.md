@@ -2,7 +2,7 @@
 
 | Author(s)                                                    | Title                                                                                                               |
 |:--------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
-| Rainer Rehak (<a href="https://www.weizenbaum-institut.de/portrait/p/rainer-rehak/">profile website</a>)                               | Ten Years of Failed Civic Tech in Germany                                                                 |
+| Rainer Rehak (<a href="https://www.weizenbaum-institut.de/en/spezialseiten/persons-details/p/rainer-rehak/">profile website</a>)                               | <a href="/files/abstracts/10_RainerRehak_DiscontinuedCivicTech.pdf">Ten Years of Failed Civic Tech in Germany </a>                                                                 |
 | Mennatullah Hendawy (<a href="https://sites.google.com/view/mennatullah-hendawy">profile website</a>)                               | Discontinued Civic Tech in Post Revolution contexts                                                                 |
 | Dan Richardson (<a href="https://danrichardson.me/">profile website</a>)                                   | <a href='files/abstracts/01_DanRichardson_Failed_yet_successful__OurPlace_and_Digital_Civics.pdf'>Failed yet successful: OurPlace and Digital Civics</a>                                                                  |
 | Emilia Knabe                                      | <a href="files/abstracts/08_Emilia Knabe.pdf">Accessibility of Digital Applications in Participation Processes in an Urban Context</a>                                 |
