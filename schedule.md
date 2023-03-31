@@ -33,7 +33,7 @@ layout: default
         </tr>
         <tr>
             <td>10:40</td>
-            <td><br />Coffee break</td>
+            <td>Coffee break</td>
         </tr>
         <tr>
             <td>11:00</td>
@@ -55,11 +55,10 @@ layout: default
         </tr>
         <tr>
             <td>12:30</td>
-            <td><strong>Lunch Break</strong>
+            <td><br/>Lunch break
             <ul>
                     <li><a href="https://chi2023.acm.org/for-attendees/food-at-chi-2023/">Food at CHI</a></li>
                     <li><a href="https://umap.openstreetmap.de/de/map/chi-2023-recommendations_28213#14/53.5569/9.9848">Restaurants within walking distance</a></li>
-                    <li></li>
                 </ul>
             </td>
         </tr>
