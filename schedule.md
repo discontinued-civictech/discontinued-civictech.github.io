@@ -33,6 +33,10 @@ layout: default
         </tr>
         <tr>
             <td>10:40</td>
+            <td><br />Coffee break</td>
+        </tr>
+        <tr>
+            <td>11:00</td>
             <td><br /><strong>Sharing circle: Your "failure" story</strong>
                 <ol>
                     <li><b>Rainer Rehak</b> (<a href="https://www.weizenbaum-institut.de/en/spezialseiten/persons-details/p/rainer-rehak/">profile website</a>)<br /><i>Ten Years of Failed Civic Tech in Germany</i> (<a href="/files/abstracts/10_RainerRehak_DiscontinuedCivicTech.pdf"><u>pdf</u></a>)</li>
@@ -50,37 +54,37 @@ layout: default
             </td>
         </tr>
         <tr>
-            <td>12:00</td>
+            <td>12:30</td>
             <td><strong>Lunch Break</strong>
+            <ul>
+                    <li><a href="https://chi2023.acm.org/for-attendees/food-at-chi-2023/">Food at CHI</a></li>
+                    <li><a href="https://umap.openstreetmap.de/de/map/chi-2023-recommendations_28213#14/53.5569/9.9848">Restaurants within walking distance</a></li>
+                    <li></li>
+                </ul>
             </td>
         </tr>
         <tr>
-            <td>13:30</td>
+            <td>14:00</td>
             <td><strong>Group exercise 1: On the questions/issues from the failure stories</strong>
             </td>
         </tr>
         <tr>
-            <td>14:30</td>
+            <td>15:00</td>
             <td><strong>Presentation of findings of Group discussion 1</strong>
             </td>
         </tr>
         <tr>
-            <td>15:00</td>
+            <td>15:30</td>
             <td><strong>Coffe Break</strong>
             </td>
         </tr>
         <tr>
-            <td>15:30</td>
+            <td>16:00</td>
             <td><strong>Group exercise 2: How success or learning or competencies came out of the civic tech project. How could failure become success?</strong>
             </td>
         </tr>
         <tr>
-            <td>16:30</td>
-            <td><strong>Break</strong>
-            </td>
-        </tr>
-        <tr>
-            <td>16:45</td>
+            <td>17:00</td>
             <td><strong>Presentation of results and discussion </strong>
             </td>
         </tr>
