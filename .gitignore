@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-=======
-_site
 .sass-cache
 Gemfile.lock
 *.gem
 .jekyll-cache
-.jekyll-cache
->>>>>>> 7e8426d (upload files.)

@@ -30,6 +30,14 @@ Part of the data is collected to ensure the proper functioning of the website.
 
 You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.
 
+<b>Privacy policy on the use and application of Google Tag Manager</b>
 
+This website uses the Google Tag Manager. Through this service, website
+tags can be managed via an interface. The Google Tag Manager itself does
+not set any cookies but only tags and does not collect any personal data.
+The service triggers other tags, which in turn may collect data. However,
+Google Tag Manager does not access this data. If a deactivation has been
+made at the domain or cookie level, this remains in place for all tracking
+tags that are implemented with Google Tag Manager.
 
 <a href = "./" class="btn-to-top">Back to Top Page</a>
