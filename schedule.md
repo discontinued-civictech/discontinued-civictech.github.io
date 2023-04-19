@@ -78,22 +78,22 @@ layout: default
             </td>
         </tr>
         <tr>
-            <td>16:00</td>
+            <td>15:45</td>
             <td><strong>Group exercise 2: How success or learning or competencies came out of the civic tech project. How could failure become success?</strong>
             </td>
         </tr>
         <tr>
-            <td>17:00</td>
+            <td>16:45</td>
             <td><strong>Presentation of results and discussion </strong>
             </td>
         </tr>
         <tr>
-            <td>17:45</td>
+            <td>17:15</td>
             <td><strong>Farewell, outlook & closing remark</strong>
             </td>
         </tr>
         <tr>
-            <td>18:00</td>
+            <td>17:30</td>
             <td><strong>End of the workshop and get together</strong>
             </td>
         </tr>
