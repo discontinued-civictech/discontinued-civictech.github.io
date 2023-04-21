@@ -25,7 +25,7 @@ layout: default
             <td>10:10</td>
             <td><br /><strong>Position statements</strong><br /> (organizers present their perspectives on failure and discontinuation of civic tech)
                 <ul>
-                    <li>Christoph Bieber</li>
+                    <li>Christoph Bieber (<a href="files/abstracts/CRaetzsch_Position Statement.pdf"><u>pdf</u></a>)</li>
                     <li>Christoph Raetzsch</li>
                     <li> Ben Schouten and Gwen Klerks</li>
                 </ul>
