@@ -27,7 +27,7 @@ layout: default
                 <ul>
                     <li>Christoph Bieber (<a href="files/abstracts/Bieber, CHI position statement.pdf"><u>pdf</u></a>)</li>
                     <li>Christoph Raetzsch (<a href="files/abstracts/CRaetzsch_Position Statement.pdf"><u>pdf</u></a>)</li>
-                    <li> Ben Schouten and Gwen Klerks</li>
+                    <li> Ben Schouten and Gwen Klerks (<a href="files/abstracts/230419 Position statement_BS.pdf"><u>pdf</u></a>)</li>
                 </ul>
             </td>
         </tr>
@@ -89,7 +89,10 @@ layout: default
         </tr>
         <tr>
             <td>17:15</td>
-            <td><strong>Farewell, outlook & closing remark</strong>
+            <td><strong>Farewell, outlook & closing remark<br /></strong>
+            <ul>
+            <li>Family Photo</li>
+            </ul>
             </td>
         </tr>
         <tr>

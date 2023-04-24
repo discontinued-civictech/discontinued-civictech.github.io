@@ -5,7 +5,7 @@ layout: default
 
 # Call for Participation
 
-### <strong>Read the full call <u><a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u><strong>. 
+### <strong>Read the full call <u><a href="https://dl.acm.org/doi/10.1145/3544549.3573818">here</a></u><strong>. 
 
 ### Key dates
 
