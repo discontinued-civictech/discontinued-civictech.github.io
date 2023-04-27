@@ -17,7 +17,7 @@ layout: default
             <td>10:00</td>
             <td><br /><strong>Welcome & opening remarks</strong>
                 <ul>
-                    <li>Andrea Hamm and Yuya Shibuya</li>
+                    <li>Andrea Hamm, Yuya Shibuya and Teresa Cerratto Pargman</li>
                 </ul>
             </td>
         </tr>
