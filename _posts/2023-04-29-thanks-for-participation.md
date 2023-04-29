@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Thank you for participating our workshop!"
+title:  "Thank you for participating in our workshop!"
 ---
 
-We are honered to host our wonderful workshop at CHI'23.
+We are honored to host our wonderful workshop at CHI'23.
 
 You may find some photos from our workshop <a href="/photos">here</a>.
 
-The organizers' position statemtnes and participants' submissions can be found <a href="/schedule">here</a>.
+The organizers' position statements and participants' submissions can be found <a href="/schedule">here</a>.
 
-Stay tuned for the updates.
+We are looking forward to having more collaboration in the future! 
 
+Yuya and Andrea
