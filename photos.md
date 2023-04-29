@@ -38,6 +38,6 @@ layout: default
   </div>
 </div>
 
-<img src="assets/img/familyphoto.png" style="width:70%;display:block;margin-left:auto;margin-right:auto" alt="family photo">
+<img src="assets/img/familyphoto.png" style="width:100%;display:block;margin-left:auto;margin-right:auto" alt="family photo">
 
 <a href = "{{ site.url }}" class="btn-to-top">Back to Top Page</a>
