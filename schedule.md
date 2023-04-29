@@ -17,7 +17,7 @@ layout: default
             <td>10:00</td>
             <td><br /><strong>Welcome & opening remarks</strong>
                 <ul>
-                    <li>Andrea Hamm, Yuya Shibuya and Teresa Cerratto Pargman</li>
+                    <li>Andrea Hamm, Yuya Shibuya and Teresa Cerratto Pargman (<a href="/files/abstracts/chi23_workshop_opening_slides.pdf"><u>pdf</u></a>)</li>
                 </ul>
             </td>
         </tr>

@@ -8,9 +8,11 @@ The design of civic tech is often confronted with impediments, barriers, and a l
 
 #### <strong>Read the full call <u><a href="https://dl.acm.org/doi/10.1145/3544549.3573818">here</a></u><strong>.
 
-<br />
-<br />
-<img src="assets/img/logo_banner_combined.svg" style="width:100%" alt="top-page-image">
+<img src="assets/img/familyphoto.png" style="width:70%;margin-top:3em;display:block;margin-left:auto;margin-right:auto" alt="family photo">
+
+<div><p style="font-size:x-large;text-align:center">Thank you for paritipating our workshop!</p>
+<p style="text-align:center;margin-top:-2em">More photos can be found <a href='photos'>here</a>.</p></div>
+<img src="assets/img/logo_banner_combined.svg" style="width:100%" alt="top-page-image" alt="top-page-image">
 
 ## News
 
