@@ -10,7 +10,7 @@ The design of civic tech is often confronted with impediments, barriers, and a l
 
 <img src="assets/img/familyphoto.png" style="width:80%;margin-top:3em;display:block;margin-left:auto;margin-right:auto" alt="family photo">
 
-<div><p style="font-size:x-large;text-align:center">Thank you for paritipating our workshop!</p>
+<div><p style="font-size:x-large;text-align:center">Thank you for participating in our workshop!</p>
 <p style="text-align:center;margin-top:-2em">More photos can be found <a href='photos'>here</a>.</p></div>
 <img src="assets/img/logo_banner_combined.svg" style="width:100%" alt="top-page-image" alt="top-page-image">
 
