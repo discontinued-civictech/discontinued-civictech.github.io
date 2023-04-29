@@ -10,5 +10,3 @@ You may find some photos from our workshop <a href="/photos">here</a>.
 The organizers' position statements and participants' submissions can be found <a href="/schedule">here</a>.
 
 We are looking forward to having more collaboration in the future! 
-
-Yuya and Andrea
