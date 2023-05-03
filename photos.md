@@ -6,6 +6,17 @@ layout: default
 
 <div class="row">
   <div class="column">
+    <img src="assets/img/IMG_2712.JPG" alt="workshop pic" style="width:100%;margin-top:0.5em">
+  </div>
+  <div class="column">
+    <img src="assets/img/IMG_2475.png" alt="workshop pic" style="width:100%;margin-top:0.5em">
+  </div>
+  <div class="column">
+    <img src="assets/img/IMG_2452.png" alt="workshop pic" style="width:100%;margin-top:0.5em">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
     <img src="assets/img/IMG_2441.png" alt="workshop pic" style="width:100%;margin-top:0.5em">
   </div>
   <div class="column">
