@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <a href="{{ site.baseurl }}/index"><h1 class="project-name">{{site.title }}</h1></a>
+      <a href="https://chi2023.acm.org/"><h2 class="project-tagline">{{ site.description }}</h2></a>
+      <a href="{{ site.baseurl }}/call" class="btn">Call for Participants</a>
+      <a href="{{ site.baseurl }}/organizers" class="btn">Organizers</a>
+      <a href="{{ site.baseurl }}/schedule" class="btn">Program</a>
+      <a href="{{ site.baseurl }}/participants" class="btn">Participants</a>
+      <a href="{{ site.baseurl }}/photos" class="btn">Photos</a>
+      <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+        <h1>{{ page.title }}</h1>
+
+        <p class="post-date">{{ page.date | date_to_long_string }}</p>
+        <hr>
+        <p class="post-content">
+        {{ content }}
+        </p>
+
+        <a href = "{{ site.url }}" class="btn-to-top">Back to Top Page</a>
+
+    </main>
+  </body>
+  <footer class="footer">
+    <div style="height: 10vh; overflow: hidden;">
+      <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
+        <path d="M-4.79,64.64 C149.99,150.00 284.71,-100.14 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;fill: rgb(243, 247, 241)"></path>
+      </svg>
+    </div>
+    <div>
+      <p class="site-footer-owner">
+        CHI23' Workshop on Discontinued Civic-Tech<br>
+      </p>
+      <p class="footer-info">
+        <a href="{{ site.baseurl }}/privacy">Privacy Policy</a><br/>
+        <a href="{{ site.baseurl }}/site">Site Notice</a>
+      </p>
+      <p class="contact-us">
+        feel free to contact us at discontinued.civictech [at] gmail.com
+      </p>
+    </div>
+    </footer>
+</html> 
+
