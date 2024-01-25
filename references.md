@@ -16,4 +16,6 @@ layout: default
 
 <p><a href="https://www.ribabooks.com/The-Civic-Empowerment-Toolbox-Action-Design-for-Urban-Futures_9789492852717" target="_blank">Ben Schouten et al (2022). The Civic Empowerment Toolbox, Action Design for Urban Futures. Jap Sam Books.</a></p>
 
+<p><a href="https://www.nature.com/articles/s41598-022-22471-y" target="_blank">Shibuya, Y., Lai, CM., Hamm, A., Takagi, S., & Sekimoto Y. (2022) Do open data impact citizens’ behavior? Assessing face mask panic buying behaviors during the Covid-19 pandemic. Scientific Reports 12, 17607 (2022). https://doi.org/10.1038/s41598-022-22471-y</a></p>
+
 </div>
