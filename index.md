@@ -6,7 +6,7 @@ layout: default
 
 The design of civic tech is often confronted with impediments, barriers, and a lack of resources. These and other causes may lead to the discontinuation and even abandonment of initiatives. Since seemingly failed projects are much more difficult to publish as articles, this workshop will provide academics and practitioners with a rare opportunity to exchange experiences and insights on discontinued civic tech initiatives. The goal of the workshop is to develop a better understanding of why some civic tech initiatives fail and ask whether discontinued initiatives may still somehow contribute to social change and the growth of digital civics. A variety of sub-questions around discontinued civic tech will be addressed in the workshop, including matters of participation, citizen science, public management, power structures and biases, and communication. 
 
-#### <strong>Read our extended abstract <u><a href="files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf">here</a></u><strong>.
+#### <strong>Read our latest article based on CHI'23 workshop <u><a href="https://dl.acm.org/doi/10.1145/3641815">here</a></u></strong>.
 
 <img src="assets/img/familyphoto.png" style="width:80%;margin-top:3em;display:block;margin-left:auto;margin-right:auto" alt="family photo">
 
