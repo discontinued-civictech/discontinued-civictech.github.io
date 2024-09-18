@@ -6,9 +6,9 @@ layout: default
 
 The design of civic tech is often confronted with impediments, barriers, and a lack of resources. These and other causes may lead to the discontinuation and even abandonment of initiatives. Since seemingly failed projects are much more difficult to publish as articles, this workshop will provide academics and practitioners with a rare opportunity to exchange experiences and insights on discontinued civic tech initiatives. The goal of the workshop is to develop a better understanding of why some civic tech initiatives fail and ask whether discontinued initiatives may still somehow contribute to social change and the growth of digital civics. A variety of sub-questions around discontinued civic tech will be addressed in the workshop, including matters of participation, citizen science, public management, power structures and biases, and communication. 
 
-## The 2nd Workshop of Discontinued Civic Tech will take place on Oct-31, 2023. Please check the <a href="/call/">call for participation</a>
+## The 2nd Workshop of Discontinued Civic Tech will take place on Oct-31, 2023. Please check the <a href="./call/">call for participation</a>
 
-<img src="/assets/img/familyphoto.png" style="width:80%;margin-top:3em;display:block;margin-left:auto;margin-right:auto" alt="family photo">
+<img src="./assets/img/familyphoto.png" style="width:80%;margin-top:3em;display:block;margin-left:auto;margin-right:auto" alt="family photo">
 
 
 ## News
