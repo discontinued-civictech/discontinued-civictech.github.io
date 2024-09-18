@@ -15,17 +15,7 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <a href="{{ site.baseurl }}/index"><h1 class="project-name">{{site.title }}</h1></a>
-      <a href="https://chi2023.acm.org/" target="_blank"><h2 class="project-tagline">{{ site.description }}</h2></a>
-      <a href="{{ site.baseurl }}/call" class="btn">Call for Participation</a>
-      <a href="{{ site.baseurl }}/organizers" class="btn">Organizers</a>
-      <a href="{{ site.baseurl }}/schedule" class="btn">Program</a>
-      <a href="{{ site.baseurl }}/participants" class="btn">Participants</a>
-      <a href="{{ site.baseurl }}/photos" class="btn">Photos</a>
-      <a href="{{ site.baseurl }}/contact" class="btn">Contact</a>
-      <a href="{{ site.baseurl }}/references" class="btn">References</a>
-    </header>
+    {% include nav.html %}
 
     <main id="content" class="main-content" role="main">
       {{ content }}
@@ -39,7 +29,7 @@
     </div>
     <div>
       <p class="site-footer-owner">
-        CHI23' Workshop on Discontinued Civic-Tech<br>
+        Workshops on Discontinued Civic Tech<br>
       </p>
       <p class="footer-info"><a href="{{ site.baseurl }}/privacy">Privacy Policy</a>&nbsp; / &nbsp;
       <a href="{{ site.baseurl }}/site">Site Notice</a></p>
