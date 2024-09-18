@@ -7,7 +7,7 @@ layout: default
 <div class="row">
   <div class="column">
     <a href="https://www.weizenbaum-institut.de/portrait/p/andrea-hamm/#page=1&sort=date">
-    <img src="files/profile_photos/andreahamm.jpg" class="profile-photo">
+    <img src="/files/profile_photos/andreahamm.jpg" class="profile-photo">
     <div class="profile-name">
         Andrea Hamm
     </div>
@@ -28,7 +28,7 @@ layout: default
   </div>
   <div class="column">
     <a href="https://www.yuyashibuya.com/">
-    <img src="files/profile_photos/yuyashibuya.jpeg" class="profile-photo">
+    <img src="/files/profile_photos/yuyashibuya.jpeg" class="profile-photo">
     <div class="profile-name">
         Yuya Shibuya
     </div>
@@ -49,7 +49,7 @@ layout: default
   </div>
   <div class="column">
   <a href="https://www.su.se/profiles/tcerr-1.182306">
-    <img src="files/profile_photos/Tessy.jpg" class="profile-photo">
+    <img src="/files/profile_photos/Tessy.jpg" class="profile-photo">
     <div class="profile-name">
         Teresa Cerratto Pargman
     </div>
@@ -71,7 +71,7 @@ layout: default
 <div class="row">
   <div class="column">
   <a href="https://www.tudelft.nl/io/over-io/personen/bendor-r">
-    <img src="files/profile_photos/RoyBendor.jpg" class="profile-photo">
+    <img src="/files/profile_photos/RoyBendor.jpg" class="profile-photo">
         <div class="profile-name">
             Roy Bendor
         </div>
@@ -91,7 +91,7 @@ layout: default
         </div>
   </div>
   <div class="column">
-    <img src="files/profile_photos/Nicolai.jpg" class="profile-photo">
+    <img src="/files/profile_photos/Nicolai.jpg" class="profile-photo">
     <a href="https://nbhansen.github.io/">
         <div class="profile-name">
             Nicolai Brodersen Hansen
@@ -112,7 +112,7 @@ layout: default
     </div>
   <div class="column">
   <a href="https://pure.au.dk/portal/en/persons/christoph-raetzsch(91eb24de-3d92-4846-9216-1c7aee8c2ff2).html">
-    <img src="files/profile_photos/ChristophRaetzsch.jpg" class="profile-photo">
+    <img src="/files/profile_photos/ChristophRaetzsch.jpg" class="profile-photo">
         <div class="profile-name">
             Christoph Raetzsch
         </div>
@@ -134,7 +134,7 @@ layout: default
 <div class="row">
   <div class="column">
   <a href="https://www.glocom.ac.jp/en/researcher/116">
-    <img src="files/profile_photos/MasahikoShoji.jpg" class="profile-photo">
+    <img src="/files/profile_photos/MasahikoShoji.jpg" class="profile-photo">
         <div class="profile-name">
             Masahiko Shoji
         </div>
@@ -153,7 +153,7 @@ layout: default
         </div>
     </div>
   <div class="column">
-    <img src="files/profile_photos/ChristophBieber.jpg" class="profile-photo">
+    <img src="/files/profile_photos/ChristophBieber.jpg" class="profile-photo">
     <a href="https://www.cais-research.de/team/christoph-bieber/">
         <div class="profile-name">
             Christoph Bieber
@@ -174,7 +174,7 @@ layout: default
     </div>
   <div class="column">
   <a href="https://sites.google.com/view/mennatullah-hendawy">
-    <img src="files/profile_photos/MennatullahHendawy.jpeg" class="profile-photo">
+    <img src="/files/profile_photos/MennatullahHendawy.jpeg" class="profile-photo">
         <div class="profile-name">
             Mennatullah Hendawy
         </div>
@@ -196,7 +196,7 @@ layout: default
 <div class="row">
   <div class="column">
   <a href="https://research.tue.nl/en/persons/gwen-klerks">
-    <img src="files/profile_photos/Gwen.jpg" class="profile-photo">
+    <img src="/files/profile_photos/Gwen.jpg" class="profile-photo">
         <div class="profile-name">
             Gwen Klerks
         </div>
@@ -217,7 +217,7 @@ layout: default
     </div>
   <div class="column">
     <a href="https://www.tue.nl/en/research/researchers/ben-schouten/">
-    <img src="files/profile_photos/BenSchouten.jpg" class="profile-photo">
+    <img src="/files/profile_photos/BenSchouten.jpg" class="profile-photo">
         <div class="profile-name">
             Ben Schouten
         </div>
