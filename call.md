@@ -66,7 +66,7 @@ Online (We will also prepare an in-person meeting room on the Hongo campus, The 
                             <li>Gurden Batra (Dark Matter Labs, The Netherlands)</li>
                             <li>Martin Bangratz (RWTH Aachen, Germany)</li>
                             <li>Prasad Perera (eSri Lanka, Sri Lanka)</li>
-                            <li>Antti Knutas(LUT University, Finland) Nicolas Jullien (IMT Atlantique, France)</li>
+                            <li>Antti Knutas (LUT University, Finland) Nicolas Jullien (IMT Atlantique, France)</li>
                         </ul>
                     <li> New questions</li>
                         <ul>
@@ -93,7 +93,7 @@ Online (We will also prepare an in-person meeting room on the Hongo campus, The 
         </tr>
         <tr>
             <td>20:00 JST</td>
-            <td><strong>Farewell, outlook & closing remark by [tbc] Prof. Yoshihide Sekimoto (UTokyo) </strong>
+            <td><strong>Farewell, outlook & closing remark by Prof. Yoshihide Sekimoto (UTokyo) </strong>
             </td>
         </tr>
         <tr>
