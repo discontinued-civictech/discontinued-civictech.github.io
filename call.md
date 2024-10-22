@@ -24,7 +24,7 @@ Thursday, 2024 October 31, 17:00-20:00 JST // 9:00-12:00 CET (European winter ti
 Online (We will also prepare an in-person meeting room on the Hongo campus, The University of Tokyo)
 
 
-## Workshop Schedule (tentative)
+## Workshop Schedule
  
 <table style="width: 100%">
     <tbody>
@@ -42,11 +42,37 @@ Online (We will also prepare an in-person meeting room on the Hongo campus, The 
         </tr>
         <tr>
             <td>17:15 JST</td>
-            <td><strong>Sharing circle:</strong>
-                <ol>
+            <td><strong>Sharing circle</strong><br>
+            <ul>
+                <li> Moderation by</li>
+                    <ul style="margin-top:0px; margin-bottom:-20px">
+                        <li>Andrea Hamm (Weizenbaum Institute, Germany; University of Tokyo, Japan)</li>
+                        <li>Yuya Shibuya (University of Tokyo, Japan)</li>
+                    </ul>
+                <li>Discussants</li>
+                <ul style="margin-top:0px; margin-bottom:-20px;">
+                    <li>Stefan Ullrich (Civic Tech Lab for Green, Germany)</li>
+                    <li>[tbc] António Tavares (UNU-EGOV)</li>
+                </ul>
+            </ul>
+               <ol>
                     <li>Your ‘failure’ story</li>
+                        <ul>
+                            <li>Matt Stempeck (Civic Tech Field Guide, USA)</li>
+                            <li>Matthew Somerville (mySociety, United Kingdom)</li>
+                        </ul>
                     <li>Lessons learned</li>
+                        <ul>
+                            <li>Gurden Batra (Dark Matter Labs, The Netherlands)</li>
+                            <li>Martin Bangratz (RWTH Aachen, Germany)</li>
+                            <li>Prasad Perera (eSri Lanka, Sri Lanka)</li>
+                            <li>Antti Knutas(LUT University, Finland) Nicolas Jullien (IMT Atlantique, France)</li>
+                        </ul>
                     <li> New questions</li>
+                        <ul>
+                            <li>Asaki Fujino (University of Tokyo)</li>
+                            <li>[tbc] Clara Crivellaro (Newcastle University, United Kingdom)</li>
+                        </ul>
                 </ol>
                 Submitted Abstracts will be shared beforehand
             </td>
@@ -67,7 +93,7 @@ Online (We will also prepare an in-person meeting room on the Hongo campus, The 
         </tr>
         <tr>
             <td>20:00 JST</td>
-            <td><strong>Farewell, outlook & closing remark </strong>
+            <td><strong>Farewell, outlook & closing remark by [tbc] Prof. Yoshihide Sekimoto (UTokyo) </strong>
             </td>
         </tr>
         <tr>
