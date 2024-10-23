@@ -71,7 +71,7 @@ Online (We will also prepare an in-person meeting room on the Hongo campus, The 
                     <li> New questions</li>
                         <ul>
                             <li>Asaki Fujino (University of Tokyo)</li>
-                            <li>[tbc] Clara Crivellaro (Newcastle University, United Kingdom)</li>
+                            <li>Clara Crivellaro (Newcastle University, United Kingdom)</li>
                         </ul>
                 </ol>
                 Submitted Abstracts will be shared beforehand
