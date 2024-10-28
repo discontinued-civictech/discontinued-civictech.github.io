@@ -52,7 +52,7 @@ Online (We will also prepare an in-person meeting room on the Hongo campus, The 
                 <li>Discussants</li>
                 <ul style="margin-top:0px; margin-bottom:-20px;">
                     <li>Stefan Ullrich (Civic Tech Lab for Green, Germany)</li>
-                    <li>[tbc] António Tavares (UNU-EGOV)</li>
+                    <li>António Tavares (UNU-EGOV)</li>
                 </ul>
             </ul>
                <ol>
@@ -63,7 +63,7 @@ Online (We will also prepare an in-person meeting room on the Hongo campus, The 
                         </ul>
                     <li>Lessons learned</li>
                         <ul>
-                            <li>Gurden Batra (Dark Matter Labs, The Netherlands)</li>
+                            <li>Gurden Batra (Dark Matter Labs, Netherlands) Eunsoo Lee (Dark Matter Labs, Netherlands) </li>
                             <li>Martin Bangratz (RWTH Aachen, Germany)</li>
                             <li>Prasad Perera (eSri Lanka, Sri Lanka)</li>
                             <li>Antti Knutas (LUT University, Finland) Nicolas Jullien (IMT Atlantique, France)</li>
