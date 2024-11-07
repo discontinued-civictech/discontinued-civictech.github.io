@@ -9,11 +9,11 @@ The design of civic tech is often confronted with impediments, barriers, and a l
 ## <a href="./2024.md">The 2nd Workshop of Discontinued Civic Tech </a> took place on Oct. 31, 2024. Thank you very much for attending!
 
 <img src="{{ site.baseurl }}/assets/img/familyphoto2024.jpeg" style="width:80%;margin-top:3em;display:block;margin-left:auto;margin-right:auto" alt="family photo">
-<p align="center">Family photo from the 2nd worksop in 2024</p>
+<p align="center">Family photo from <a href="2024">the 2nd worksop in 2024</a></p>
 <br>
 <br>
 <img src="./assets/img/familyphoto.png" style="width:80%;margin-top:3em;display:block;margin-left:auto;margin-right:auto" alt="family photo">
-<p align="center">Family photo from the 1st worksop at CHI'23</p>
+<p align="center">Family photo from <a href="/docs/history/2023/2023">the 1st worksop at CHI'23</a></p>
 
 
 ## News
