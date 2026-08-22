@@ -12,8 +12,8 @@ The workshop will explore how the experiences and results of projects using data
 ## Event details
 
 * **Date:** Friday, October 30, 2026
-* **Time:** 10:00–14:00 (CET)
-* **Venue:** Weizenbaum Institute, Flexraum, Hardenbergstraße 32, 10623 Berlin, Germany
+* **Time:** 10:00&ndash;14:00 (CET)
+* **Venue:** Weizenbaum Institute, Flexraum, Hardenbergstra&szlig;e 32, 10623 Berlin, Germany
 * **Participation fee:** Free of charge; a light lunch will be provided
 * **Registration deadline:** September 30, 2026
 * **Working language:** German
