@@ -10,7 +10,7 @@ The design of civic tech is often confronted with impediments, barriers, and a l
 
 ### Was wird aus digitalen Prototypen der Zivilgesellschaft?
 
-We are pleased to announce that the **3rd Workshop of Discontinued Civic Tech** will take place in Berlin on **October 30, 2026**. The workshop is organized in cooperation with the [Civic Data Lab](https://civic-data.de/) and the [Weizenbaum Institute](https://www.weizenbaum-institut.de/).
+We are pleased to announce that the **3rd Workshop of Discontinued Civic Tech** will take place in Berlin on **October 30, 2026**. The workshop is organized in cooperation with the [Civic Data Lab](https://civic-data.de/) and the [Weizenbaum Institute](https://www.weizenbaum-institut.de/), with support from the [Civic Tech Design Initiative (CTDI) at the University of Tokyo](https://dss.csis.u-tokyo.ac.jp/project_ctdi/) and Prof. Yuya Shibuya.
 
 Researchers and practitioners are invited to share experiences and lessons from civic tech projects that have ended, are approaching the end of their funding period, or have successfully continued over the longer term. The workshop results will contribute to a joint whitepaper for stakeholders in politics and public administration.
 
