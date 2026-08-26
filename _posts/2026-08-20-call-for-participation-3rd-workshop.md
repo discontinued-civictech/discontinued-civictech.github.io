@@ -3,7 +3,7 @@ layout: post
 title: "Call for Participation: The 3rd Workshop of Discontinued Civic Tech"
 ---
 
-We are pleased to announce the **3rd Workshop of Discontinued Civic Tech**, organized in cooperation with the [Civic Data Lab](https://civic-data.de/) and the [Weizenbaum Institute](https://www.weizenbaum-institut.de/).
+We are pleased to announce the **3rd Workshop of Discontinued Civic Tech**, organized in cooperation with the [Civic Data Lab](https://civic-data.de/) and the [Weizenbaum Institute](https://www.weizenbaum-institut.de/), with support from the [Civic Tech Design Initiative (CTDI) at the University of Tokyo](https://dss.csis.u-tokyo.ac.jp/project_ctdi/) and Prof. Yuya Shibuya.
 
 Under the German title **“Was wird aus digitalen Prototypen der Zivilgesellschaft?”**, the workshop will bring together researchers and practitioners to exchange experiences and lessons from civic tech projects that have ended, are approaching the end of their funding period, or have successfully continued over the longer term.
 
